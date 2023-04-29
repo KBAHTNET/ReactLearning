@@ -4,4 +4,4 @@
 
 ___
 
-![alt text](https://github.com/KBAHTNET/ReactLearning/blob/main/public/screen.png {width: 800px height:402px})
+![alt text](https://github.com/KBAHTNET/ReactLearning/blob/main/public/screen.png)
